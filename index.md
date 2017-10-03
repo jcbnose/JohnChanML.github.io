@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Machine Learning Page
+My first blog topic is about teaching machine how to read table.
 
-You can use the [editor on GitHub](https://github.com/jcbnose/JohnChanML.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Table Understanding
+Table Undestanding can be a complex machine learning problem.  Unlike Natural Language Processing (NLP) which crawls over unstructured text and extract information out of a sentance or a paragraph, or even an article, Table Understanding is about extracting the context of information arranged in a variety of structural representations, often arranged in rows and columns.
 
 # Header 1
 ## Header 2
