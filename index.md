@@ -17,6 +17,6 @@ https://cs.uwaterloo.ca/research/tr/1996/09/CS-96-09.pdf
 
 **Bold** and _Italic_ and `Code` text
 
-and ![Image](src)
+and ![https://github.com/jcbnose/JohnChanML.github.io/blob/master/img_terminologyOfTable.png](src)
 ```
 For more details...
