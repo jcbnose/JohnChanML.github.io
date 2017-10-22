@@ -20,3 +20,14 @@ https://cs.uwaterloo.ca/research/tr/1996/09/CS-96-09.pdf
 and ![image](https://github.com/jcbnose/JohnChanML.github.io/blob/master/img_terminologyOfTable.png)
 ```
 For more details...
+
+### Let's define the problem:
+**Bold** Basic
+- Table Structure Recongition (TSR): turn a table from a scanned document (or programetic document) into cell documents that no structural and content information are loss.
+- Table Attribute Extraction (TAE): ability to retrieve table cell content 
+**Bold** Advanced
+- TSR to include embedded content which is not text, e.g. embedded chart or picture in a table
+- Recognize tables span across multiple pages of a document
+**Bold** Very Advanced
+- Reason over table content:
+  including table meta data, references from and to its document
