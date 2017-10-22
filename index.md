@@ -18,8 +18,6 @@ https://cs.uwaterloo.ca/research/tr/1996/09/CS-96-09.pdf
 **Bold** and _Italic_ and `Code` text
 
 and ![image](https://github.com/jcbnose/JohnChanML.github.io/blob/master/img_terminologyOfTable.png)
-```
-For more details...
 
 ### Let's define the problem:
 **Bold** Basic
@@ -31,3 +29,6 @@ For more details...
 **Bold** Very Advanced
 - Reason over table content:
   including table meta data, references from and to its document
+
+```
+More details to come...
