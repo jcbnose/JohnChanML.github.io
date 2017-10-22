@@ -21,7 +21,7 @@ and ![image](https://github.com/jcbnose/JohnChanML.github.io/blob/master/img_ter
 
 ### Let's define the problem:
 **Basic**
-- Table Structure Recongition (TSR): turn a table from a scanned document (or programetic document) into cell documents that no structural and content information are loss.
+- Table Structure Recongition (TSR): turn a table from a scanned document (or programetic document) into cell documents that no structural and content information are lost.
 - Table Attribute Extraction (TAE): ability to retrieve table cell content 
 
 **Advanced**
