@@ -33,9 +33,9 @@ and ![image](https://github.com/jcbnose/JohnChanML.github.io/blob/master/img_ter
   including table meta data, references from and to its document
 
 **Typology**
-Simple Typoloy:
-The Wang's Typology:
-The Chan's Typoloy:
+- Simple Typoloy:
+- The Wang's Typology:
+- The Chan's Typoloy:
   Using feature vectors to represent table type - As shown in the diagram above, table features, such as Stub Head, Boxhead Separator...etc. are considered as Table features.  To order to represent and classify table type effective, given the variability of data representation in table, the Chan's Typology proposed to use a vector (with 1xN dimension, where N = number of features) to represent the table type.
 
 
